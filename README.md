@@ -31,7 +31,7 @@ Especializamo-nos em otimizações abrangentes para:
 - Melhor resposta em jogos competitivos
 ---
 ### 🔗 Conecte-se Conosco
-<img src="https://github.com/GrafenoTTK/GrafenoTTK/blob/main/Discord.png?raw=true" width="100" height="auto">
+<img src="https://github.com/GrafenoTTK/GrafenoTTK/blob/main/Discord.png?raw=true" width="25" height="25">
 
 **[Junte-se ao nosso Discord!](https://discord.gg/gBGjd7ry2w)**
 Código de convite: `gBGjd7ry2w`
