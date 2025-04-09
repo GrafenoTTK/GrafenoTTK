@@ -1,5 +1,5 @@
 # GrafenoTTK
-<img src="https://github.com/GrafenoTTK/GrafenoTTK/blob/main/GRAFNEOTKlogo.jpg?raw=true" width="150" height="150" style="border-radius: 50%;">
+<img src="https://github.com/GrafenoTTK/GrafenoTTK/blob/main/ThumbnailGF.jpeg?raw=true" width="150" height="150" style="border-radius: 50%;">
 
 ## 🚀 Performance Optimization Specialists
 GrafenoTTK é um grupo dedicado à otimização completa de sistemas e aplicações, elevando sua experiência digital ao máximo potencial.
