@@ -7,7 +7,7 @@ GrafenoTTK é um grupo dedicado à otimização completa de sistemas e aplicaç�
 ### 👨‍💻 Nossa Equipe
 | Função | Membros |
 |--------|---------|
-| **DEV** | DeBaby & Rydaxor |
+| **DEV** | DeBaby & RD7void |
 | **Scripter** | TIOXSAN |
 ---
 ### 💡 O Que Fazemos
